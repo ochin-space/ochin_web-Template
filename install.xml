@@ -1,0 +1,8 @@
+<install>
+	<addon name='Template'>
+		<en>false</en>
+		<topbarpos>Application</topbarpos>
+		<foldername>ochin_web-template</foldername>
+		<description>addon template</description>
+	</addon>
+</install>

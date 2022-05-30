@@ -2,7 +2,7 @@
 	<addon name='Template'>
 		<en>false</en>
 		<topbarpos>Application</topbarpos>
-		<foldername>ochin_web-template</foldername>
+		<foldername>ochin_web-Template</foldername>
 		<description>addon template</description>
 	</addon>
 </install>
